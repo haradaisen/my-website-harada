@@ -1,8 +1,0 @@
-AuthUserFile "C:/Users/harad/OneDrive/Desktop/my-website-harada/.htpasswd"
-AuthType Basic
-AuthName "Input your ID and Password."
-Require valid-user
-<Files ~ "^\.">
- Deny from all
-</Files>
-
